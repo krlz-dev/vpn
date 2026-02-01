@@ -1,0 +1,35 @@
+{
+  "containers": [
+    {
+      "awg": {
+        "H1": "1829965922-1846459497",
+        "H2": "2104994873-2121442988",
+        "H3": "2122262434-2127083301",
+        "H4": "2128113948-2144486012",
+        "I1": "<b 0x084481800001000300000000077469636b65747306776964676574096b696e6f706f69736b0272750000010001c00c0005000100000039001806776964676574077469636b6574730679616e646578c025c0390005000100000039002b1765787465726e616c2d7469636b6574732d776964676574066166697368610679616e646578036e657400c05d000100010000001c000457fafe25>",
+        "I2": "",
+        "I3": "",
+        "I4": "",
+        "I5": "",
+        "Jc": "4",
+        "Jmax": "50",
+        "Jmin": "10",
+        "S1": "50",
+        "S2": "15",
+        "S3": "20",
+        "S4": "7",
+        "last_config": "{\n    \"H1\": \"1829965922-1846459497\",\n    \"H2\": \"2104994873-2121442988\",\n    \"H3\": \"2122262434-2127083301\",\n    \"H4\": \"2128113948-2144486012\",\n    \"I1\": \"<b 0x084481800001000300000000077469636b65747306776964676574096b696e6f706f69736b0272750000010001c00c0005000100000039001806776964676574077469636b6574730679616e646578c025c0390005000100000039002b1765787465726e616c2d7469636b6574732d776964676574066166697368610679616e646578036e657400c05d000100010000001c000457fafe25>\",\n    \"I2\": \"\",\n    \"I3\": \"\",\n    \"I4\": \"\",\n    \"I5\": \"\",\n    \"Jc\": \"4\",\n    \"Jmax\": \"50\",\n    \"Jmin\": \"10\",\n    \"S1\": \"50\",\n    \"S2\": \"15\",\n    \"S3\": \"20\",\n    \"S4\": \"7\",\n    \"allowed_ips\": [\n        \"0.0.0.0/0\",\n        \"::/0\"\n    ],\n    \"clientId\": \"kRovSfjqJ6VLSuUrBG0KMVbGG0p5GkpVo3ag7SMd83A=\",\n    \"client_ip\": \"10.8.1.2\",\n    \"client_priv_key\": \"VnwxKL0KnLWymXWK1RZAp51zTuMpJG4sBXlcAgtK+HQ=\",\n    \"client_pub_key\": \"kRovSfjqJ6VLSuUrBG0KMVbGG0p5GkpVo3ag7SMd83A=\",\n    \"config\": \"[Interface]\\nAddress = 10.8.1.2/32\\nDNS = $PRIMARY_DNS, $SECONDARY_DNS\\nPrivateKey = VnwxKL0KnLWymXWK1RZAp51zTuMpJG4sBXlcAgtK+HQ=\\nJc = 4\\nJmin = 10\\nJmax = 50\\nS1 = 50\\nS2 = 15\\nS3 = 20\\nS4 = 7\\nH1 = 1829965922-1846459497\\nH2 = 2104994873-2121442988\\nH3 = 2122262434-2127083301\\nH4 = 2128113948-2144486012\\nI1 = <b 0x084481800001000300000000077469636b65747306776964676574096b696e6f706f69736b0272750000010001c00c0005000100000039001806776964676574077469636b6574730679616e646578c025c0390005000100000039002b1765787465726e616c2d7469636b6574732d776964676574066166697368610679616e646578036e657400c05d000100010000001c000457fafe25>\\nI2 = \\nI3 = \\nI4 = \\nI5 = \\n\\n[Peer]\\nPublicKey = sihqVp8OdsjQWJx7jcIVtyOINMl5zrEHz/e1I3Gpsxs=\\nPresharedKey = KlK9QjEEl3FFmqH9hWF4R+05ezFQhEoGU4i5VocZEaQ=\\nAllowedIPs = 0.0.0.0/0, ::/0\\nEndpoint = 77.42.39.113:42902\\nPersistentKeepalive = 25\\n\",\n    \"hostName\": \"77.42.39.113\",\n    \"mtu\": \"1376\",\n    \"persistent_keep_alive\": \"25\",\n    \"port\": 42902,\n    \"psk_key\": \"KlK9QjEEl3FFmqH9hWF4R+05ezFQhEoGU4i5VocZEaQ=\",\n    \"server_pub_key\": \"sihqVp8OdsjQWJx7jcIVtyOINMl5zrEHz/e1I3Gpsxs=\"\n}\n",
+        "port": "42902",
+        "protocol_version": "2",
+        "subnet_address": "10.8.1.0",
+        "transport_proto": "udp"
+      },
+      "container": "amnezia-awg2"
+    }
+  ],
+  "defaultContainer": "amnezia-awg2",
+  "description": "Server 1",
+  "dns1": "1.1.1.1",
+  "dns2": "1.0.0.1",
+  "hostName": "77.42.39.113"
+}
